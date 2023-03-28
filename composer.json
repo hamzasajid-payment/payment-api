@@ -1,6 +1,6 @@
 {
     "name": "hamzach96/payment-api-laravel",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A payment API for integratino",
     "license": "MIT",
     "require": {},
