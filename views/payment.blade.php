@@ -1,7 +1,3 @@
-<h1>This is Custom E-Commerce</h1>
-
-<button style="width: 100px; height: 40px; background-color: lightskyblue; color: #000;">Checkout</button>
-
 <iframe
     src="{{$url}}"
     id="Lightbox"
